@@ -1,0 +1,17 @@
+[33mcommit 29f745f45f4278048bc63d4de0b388f70021550a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnhanh-B[m[33m, [m[1;31morigin/nhanh-B[m[33m)[m
+Author: Nguyen Quang Anh <qavahoai19.com>
+Date:   Wed May 20 00:51:08 2026 +0700
+
+    ignore config folder
+
+[33mcommit 5a90e0709f042157d63aeee15eef2d753c16eb88[m
+Author: Nguyen Quang Anh <qavahoai19.com>
+Date:   Wed May 20 00:42:59 2026 +0700
+
+    Ban B sua index.html
+
+[33mcommit 9f298f502ecc5b4ba09e46e69d764478dada5e7b[m[33m ([m[1;32mmain[m[33m)[m
+Author: Nguyen Quang Anh <qavahoai19.com>
+Date:   Wed May 20 00:22:21 2026 +0700
+
+    first commit
